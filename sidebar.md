@@ -59,6 +59,7 @@
     
   - 时事评议
     - [Conronvirus](/时事评议/Conronvirus.md)
+    - [美国大选](/时事评议/美国大选.md)
   - [管理学](/管理学/README.md)
     - [营销管理](/管理学/营销管理.md)
   - [经济学](/经济学/README.md)

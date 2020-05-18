@@ -11,3 +11,7 @@ The number difference may be due to how each country implemented the lock down. 
 The UK lockdown is a joke. I went for a walk outside in London today around the local residential streets and the HIgh street, still saw many people out and about, the small local park had probably 30 people likely because the sun was out today. Queues outside M&S and sainsbury, many cars on the roads. Maybe 10% of people wore masks. People in uk just don’t take this seriously and the daily ~800 deaths reflects our behaviour.
 
 in Wuhan they shut down all the public transportation, even doctors were forced to bike miles to work before citizens started helping out. idk how it is in the uk but in NYC the subway is still running, and it's pretty much impossible to social distance on the subway.
+
+# About Trump
+
+![](https://i.postimg.cc/Dws6pg1N/image.png)
