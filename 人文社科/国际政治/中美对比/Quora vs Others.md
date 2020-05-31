@@ -1,0 +1,1 @@
+Quora isn't like Reddit, 4chan, or Yahoo Answers. On those sites, people don't bother to do research to back their claims and get thousands of up votes from simple-minded users and trolls. If you back China on those sites, you get down voted by an angry mob.
