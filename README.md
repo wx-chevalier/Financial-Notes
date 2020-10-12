@@ -16,7 +16,7 @@
   <p align="center">
     科技、财经与投资
     <br />
-    <a href="https://github.com/wx-chevalier/Financial-Series"><strong>在线阅读</strong></a>
+    <a href="https://github.com/wx-chevalier/Financial-Series"><strong>在线阅读 >> </strong></a>
     <br />
     <br />
     <a href="https://github.com/wx-chevalier/Financial-Series">速览手册</a>
