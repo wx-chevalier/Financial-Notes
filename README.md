@@ -33,7 +33,7 @@
 
 > 本书的精排目录导航版请参考 [https://ng-tech.icu/Financial-Series](https://ng-tech.icu/Financial-Series)。
 
-# Nav | 导读
+# Nav | 关联导航
 
 # About | 关于
 
