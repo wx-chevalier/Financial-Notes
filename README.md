@@ -77,6 +77,6 @@ Contributions are what make the open source community such an amazing place to b
 [license-shield]: https://img.shields.io/github/license/wx-chevalier/Financial-Series.svg?style=flat-square
 [license-url]: https://github.com/wx-chevalier/Financial-Series/blob/master/LICENSE.txt
 
-## TBD
+## Links
 
 - https://segmentfault.com/a/1190000019891825
