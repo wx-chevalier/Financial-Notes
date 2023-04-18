@@ -14,4 +14,4 @@ in Wuhan they shut down all the public transportation, even doctors were forced 
 
 # About Trump
 
-![](https://i.postimg.cc/Dws6pg1N/image.png)
+![](https://assets.ng-tech.icu/item/20230418222201.png)
