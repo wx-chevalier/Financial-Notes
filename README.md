@@ -7,7 +7,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/wx-chevalier/Financial-Series">
+  <a href="https://github.com/wx-chevalier/Financial-Notes">
     <img src="https://s2.ax1x.com/2020/01/06/lr21MT.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -16,14 +16,14 @@
   <p align="center">
     科技、财经与投资
     <br />
-    <a href="https://github.com/wx-chevalier/Financial-Series"><strong>在线阅读 >> </strong></a>
+    <a href="https://github.com/wx-chevalier/Financial-Notes"><strong>在线阅读 >> </strong></a>
     <br />
     <br />
-    <a href="https://github.com/wx-chevalier/Financial-Series">速览手册</a>
+    <a href="https://github.com/wx-chevalier/Financial-Notes">速览手册</a>
     ·
-    <a href="https://github.com/wx-chevalier/Financial-Series/issues">Financial-Seriesrt Bug</a>
+    <a href="https://github.com/wx-chevalier/Financial-Notes/issues">Financial-Notesrt Bug</a>
     ·
-    <a href="https://github.com/wx-chevalier/Financial-Series/issues">参考资料</a>
+    <a href="https://github.com/wx-chevalier/Financial-Notes/issues">参考资料</a>
   </p>
 </p>
 
@@ -31,7 +31,7 @@
 
 # Introduction | 前言
 
-> 本书的精排目录导航版请参考 [https://ng-tech.icu/books/Financial-Series](https://ng-tech.icu/books/Financial-Series)。
+> 本书的精排目录导航版请参考 [https://ng-tech.icu/books/Financial-Notes](https://ng-tech.icu/books/Financial-Notes)。
 
 # Nav | 关联导航
 
@@ -66,16 +66,16 @@ Contributions are what make the open source community such an amazing place to b
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/wx-chevalier/Financial-Series.svg?style=flat-square
-[contributors-url]: https://github.com/wx-chevalier/Financial-Series/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/wx-chevalier/Financial-Series.svg?style=flat-square
-[forks-url]: https://github.com/wx-chevalier/Financial-Series/Financial/members
-[stars-shield]: https://img.shields.io/github/stars/wx-chevalier/Financial-Series.svg?style=flat-square
-[stars-url]: https://github.com/wx-chevalier/Financial-Series/stargazers
-[issues-shield]: https://img.shields.io/github/issues/wx-chevalier/Financial-Series.svg?style=flat-square
-[issues-url]: https://github.com/wx-chevalier/Financial-Series/issues
-[license-shield]: https://img.shields.io/github/license/wx-chevalier/Financial-Series.svg?style=flat-square
-[license-url]: https://github.com/wx-chevalier/Financial-Series/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/wx-chevalier/Financial-Notes.svg?style=flat-square
+[contributors-url]: https://github.com/wx-chevalier/Financial-Notes/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/wx-chevalier/Financial-Notes.svg?style=flat-square
+[forks-url]: https://github.com/wx-chevalier/Financial-Notes/Financial/members
+[stars-shield]: https://img.shields.io/github/stars/wx-chevalier/Financial-Notes.svg?style=flat-square
+[stars-url]: https://github.com/wx-chevalier/Financial-Notes/stargazers
+[issues-shield]: https://img.shields.io/github/issues/wx-chevalier/Financial-Notes.svg?style=flat-square
+[issues-url]: https://github.com/wx-chevalier/Financial-Notes/issues
+[license-shield]: https://img.shields.io/github/license/wx-chevalier/Financial-Notes.svg?style=flat-square
+[license-url]: https://github.com/wx-chevalier/Financial-Notes/blob/master/LICENSE.txt
 
 ## Links
 
